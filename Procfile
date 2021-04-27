@@ -1,1 +1,1 @@
-web gunicorn projectx.wsgi --log-file -
+web gunicorn manage.py django_predictdiabetes
